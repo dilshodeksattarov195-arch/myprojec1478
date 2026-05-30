@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchdonnect",
+        "uuid": 4510856,
+        "checksum": "8bo0lk"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
